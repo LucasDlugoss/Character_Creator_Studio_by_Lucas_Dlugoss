@@ -6,6 +6,9 @@ Lucas Character Studio is a free local app built on ComfyUI by Lucas Dlugoss. It
 
 Generation runs on your own hardware once the required models and dependencies are installed. Initial setup and model downloads require an internet connection.
 
+Talk with me on Linkedin:
+https://www.linkedin.com/in/lucasdlugoss/
+
 ☕ Support development on Ko-fi
 Features
 - Text or image input: describe your asset or upload at least one reference view.
