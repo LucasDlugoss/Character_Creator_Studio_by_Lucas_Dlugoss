@@ -10,6 +10,8 @@ Talk with me on Linkedin:
 https://www.linkedin.com/in/lucasdlugoss/
 
 ☕ Support development on Ko-fi
+https://ko-fi.com/lucasdlugoss
+
 Features
 - Text or image input: describe your asset or upload at least one reference view.
 - Three generated views: front, left, and back, with approval before 3D generation.
@@ -84,6 +86,7 @@ Support development
 Enjoyed bringing your idea to life? If this app helped you, you can buy me a coffee and help me keep building free AI tools. Your support means a lot!
 
 ☕ Buy Lucas a coffee on Ko-fi
+https://ko-fi.com/lucasdlugoss
 
 Contributions are completely optional and do not unlock or restrict any app features or downloads.
 Licenses and credits
